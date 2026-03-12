@@ -2,6 +2,13 @@
 
 This repository contains my daily coding practice for improving problem solving and preparing for technical interviews.
 
+## Goals
+
+- Strengthen Data Structures and Algorithms knowledge
+- Practice Git and GitHub workflow used in real development
+- Prepare for Software Engineering and AI/ML interviews
+- Build a consistent daily coding habit
+
 ## Structure
 
 leetcode/
@@ -15,3 +22,12 @@ Notes about Git, programming concepts, and learning progress.
 - Learned basic Git workflow
 - Created repository structure
 - Solved LeetCode problem: Single Number
+
+## Day 2
+
+- Learned Git push and Git pull commands
+- Solved LeetCode problem: Move Zeroes
+- Solved LeetCode problem: Maximum Subarray
+- Studied array traversal concepts
+- Practiced committing and pushing code to GitHub
+
