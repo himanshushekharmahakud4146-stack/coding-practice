@@ -31,3 +31,21 @@ Notes about Git, programming concepts, and learning progress.
 - Studied array traversal concepts
 - Practiced committing and pushing code to GitHub
 
+## Day 3
+
+### Git
+Learned how to clone a repository using:
+
+git clone
+
+### LeetCode Problems
+1. Valid Palindrome
+2. Reverse String
+
+### Concepts Learned
+- String manipulation
+- isalnum()
+- lower()
+- string slicing
+- two pointer technique
+
