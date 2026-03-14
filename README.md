@@ -49,3 +49,17 @@ git clone
 - string slicing
 - two pointer technique
 
+## Day 4
+
+Topics Learned:
+- Git branching
+- git branch
+- git checkout
+- Feature branch workflow
+
+Coding Practice:
+- Two Sum II (Two Pointer technique)
+- Squares of a Sorted Array
+
+Notes:
+- Two Pointer algorithm pattern
