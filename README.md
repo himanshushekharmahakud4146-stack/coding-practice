@@ -51,15 +51,34 @@ git clone
 
 ## Day 4
 
-Topics Learned:
+### Topics Learned:
 - Git branching
 - git branch
 - git checkout
 - Feature branch workflow
 
-Coding Practice:
+### Coding Practice:
 - Two Sum II (Two Pointer technique)
 - Squares of a Sorted Array
 
-Notes:
+### Notes:
 - Two Pointer algorithm pattern
+
+## Day 5
+
+### Topics Learned:
+- Git merge
+- Branch merging workflow
+- Frequency counting technique
+
+### Git Commands Practiced:
+- git merge
+- git checkout
+- git branch
+
+### LeetCode Problems:
+- Majority Element
+- Missing Number
+
+### Notes:
+- frequency_counting.md
