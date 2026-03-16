@@ -82,3 +82,16 @@ git clone
 
 ### Notes:
 - frequency_counting.md
+
+## Day 6
+### Focus:
+Improving GitHub repository quality and strengthening array problem solving skills.
+
+### Tasks Completed:
+- Solved two LeetCode problems
+- Studied common array problem solving patterns
+- Documented array patterns in notes
+- Continued building a consistent coding practice repository
+
+### Key Idea:
+Maintaining a clean repository and documenting concepts improves both understanding and professionalism. Consistency in daily coding practice helps develop stronger problem solving skills over time.
