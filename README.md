@@ -1,7 +1,14 @@
 # Coding Practice
 
-This repository contains my daily coding practice for improving problem solving and preparing for technical interviews.
+## Project Description
 
+This repository contains my daily coding practice as part of my journey toward becoming a Machine Learning Engineer and Software Engineer.
+
+The goal of this repository is to improve problem solving skills, strengthen understanding of Data Structures and Algorithms, and maintain consistent coding practice while preparing for technical interviews.
+
+All solutions and learning notes are organized to track my daily progress and learning journey.
+
+---
 ## Goals
 
 - Strengthen Data Structures and Algorithms knowledge
@@ -9,13 +16,45 @@ This repository contains my daily coding practice for improving problem solving 
 - Prepare for Software Engineering and AI/ML interviews
 - Build a consistent daily coding habit
 
-## Structure
+## Repository Structure
 
-leetcode/
-Solutions to LeetCode problems.
+```
+coding-practice/
+│
+├── leetcode/
+│   ├── problem_name.py
+│
+├── notes/
+│   ├── note.md
+│
+└── README.md
+```
 
-notes/
-Notes about Git, programming concepts, and learning progress.
+- **leetcode/** → contains solutions to LeetCode problems  
+- **notes/** → contains notes about Git, programming concepts, and learning progress  
+
+---
+
+## Example Problem
+
+Example: Two Sum
+
+### Input
+```
+nums = [2,7,11,15]
+target = 9
+```
+
+### Output
+```
+[0,1]
+```
+
+### Explanation
+
+The numbers at index **0** and **1** add up to the target value.
+
+---
 
 ## Day 1
 
