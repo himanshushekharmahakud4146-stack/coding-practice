@@ -132,5 +132,20 @@ Improving GitHub repository quality and strengthening array problem solving skil
 - Documented array patterns in notes
 - Continued building a consistent coding practice repository
 
-### Key Idea:
+### 
+Key Idea:
 Maintaining a clean repository and documenting concepts improves both understanding and professionalism. Consistency in daily coding practice helps develop stronger problem solving skills over time.
+
+## Day 7
+
+### Focus:
+Reviewing Git commands and verifying repository commits.
+
+### Tasks Completed:
+- Reviewed important Git commands
+- Checked commit history using `git log`
+- Verified repository status using `git status`
+- Continued maintaining daily coding discipline
+
+### Key Idea:
+Regular review of Git commands strengthens version control skills and ensures consistent repository management.
