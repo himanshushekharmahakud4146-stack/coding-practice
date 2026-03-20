@@ -149,3 +149,37 @@ Reviewing Git commands and verifying repository commits.
 
 ### Key Idea:
 Regular review of Git commands strengthens version control skills and ensures consistent repository management.
+
+## Day 8
+
+---
+
+### ✅ Problems Solved
+- Valid Anagram → HashMap (Frequency Count)
+- Merge Sorted Array → Two Pointers
+
+---
+
+### 🧠 Concepts Learned
+- Frequency Counting using HashMap
+- Two Pointer Technique
+- In-place array manipulation
+
+---
+
+### 💡 Key Takeaways
+- Counting is more efficient than sorting for comparison problems
+- Two pointer approach helps reduce extra space
+- Always think about optimizing time complexity
+
+---
+
+### 🚀 Progress Update
+Focused on strengthening fundamental problem-solving patterns and writing clean, structured code.
+
+---
+
+### 📂 Files Added
+- `valid_anagram.py`
+- `merge_sorted_array.py`
+- `patterns.md`
