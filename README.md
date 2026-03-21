@@ -183,3 +183,19 @@ Focused on strengthening fundamental problem-solving patterns and writing clean,
 - `valid_anagram.py`
 - `merge_sorted_array.py`
 - `patterns.md`
+
+
+---
+
+## Day 9 - Hash Map Pattern
+
+### Solved Problems:
+- Intersection of Two Arrays II
+- Find the Difference
+
+### Concepts Learned:
+- Frequency map for comparing arrays
+- Hash map pattern
+- XOR optimization technique
+
+### Status: Completed ✅
