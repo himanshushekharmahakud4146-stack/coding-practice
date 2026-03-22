@@ -199,3 +199,43 @@ Focused on strengthening fundamental problem-solving patterns and writing clean,
 - XOR optimization technique
 
 ### Status: Completed ✅
+
+---
+
+##  Day 10
+
+---
+
+### 🧩 Problems Solved
+- Reverse Words in a String → String Manipulation (Split + Reverse)
+- First Unique Character in String → HashMap (Frequency Count + Two Pass)
+
+---
+
+### 🧠 Concepts Learned
+- String traversal techniques
+- Word-based string manipulation
+- Two-pass algorithm approach
+- Frequency counting using HashMap
+
+---
+
+### 💡 Key Takeaways
+- Always preprocess strings (strip, split) before solving
+- Two-pass approach simplifies decision-making problems
+- HashMaps are essential for frequency-based questions
+- Clean code is better than clever one-liners in interviews
+
+---
+
+### 🚀 Progress Update
+Focused on strengthening string problem-solving patterns and improving understanding of traversal logic.
+
+---
+
+### 📁 Files Added
+- reverse_words_in_a_string.py
+- first_unique_character_in_string.py
+- notes/string_traversal_logic.md
+
+---
