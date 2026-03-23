@@ -239,3 +239,22 @@ Focused on strengthening string problem-solving patterns and improving understan
 - notes/string_traversal_logic.md
 
 ---
+## Day 11 - Binary Search
+
+### 📚 Topics Covered
+- Binary Search Algorithm
+- Searching in a sorted array
+- Two-pointer technique (left, right, mid)
+
+### 💻 LeetCode Problems
+1. Binary Search
+
+### 🧠 Key Learnings
+- Binary search works only on sorted arrays
+- Reduces search space by half each iteration
+- Time complexity: O(log n)
+- Importance of correct loop condition (left <= right)
+
+### 📁 Files Added
+- leetcode/binary_search.py
+- notes/binary_search.md
