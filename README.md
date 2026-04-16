@@ -258,3 +258,43 @@ Focused on strengthening string problem-solving patterns and improving understan
 ### 📁 Files Added
 - leetcode/binary_search.py
 - notes/binary_search.md
+
+---
+
+## 📅 Day 12 – Binary Search Variations
+
+### 📚 Topics Covered
+- Binary Search (Advanced Patterns)
+- Search Insert Position
+- First Bad Version (Boundary Problem)
+- Understanding left and right boundaries
+
+---
+
+### 💻 LeetCode Problems
+1. Search Insert Position  
+2. First Bad Version  
+
+---
+
+### 🧠 Key Learnings
+- Binary search is not just for exact match problems
+- Learned how to find insertion position using `left`
+- Understood boundary-based search (first true condition)
+- Difference between:
+  - `left <= right` (exact match)
+  - `left < right` (boundary problems)
+- Importance of:
+  - `right = mid` vs `right = mid - 1`
+
+---
+
+### 📁 Files Added
+- leetcode/search_insert_position.py
+- leetcode/first_bad_version.py
+- notes/binary_search_variations.md
+
+---
+
+### 🚀 Progress Insight
+Improved understanding of binary search patterns and how to apply them in different problem types.
