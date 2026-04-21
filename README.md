@@ -298,3 +298,24 @@ Focused on strengthening string problem-solving patterns and improving understan
 
 ### 🚀 Progress Insight
 Improved understanding of binary search patterns and how to apply them in different problem types.
+
+## 📅 Day 13 - In-place & Prefix Patterns
+
+### 📌 Problems Solved
+- Remove Duplicates from Sorted Array  
+- Product of Array Except Self  
+
+### 🧠 Concepts Learned
+- Two Pointers (in-place array modification)  
+- Prefix & Suffix Product Pattern  
+- Space Optimization Techniques  
+
+### 🚀 Key Takeaways
+- Learned how to modify arrays without extra space  
+- Understood prefix-suffix logic deeply  
+- Improved optimization thinking  
+
+### 📂 Files
+- `leetcode/remove_duplicates_sorted_array.py`  
+- `leetcode/product_of_array_except_self.py`  
+- `notes/inplace-and-prefix-patterns.md`
