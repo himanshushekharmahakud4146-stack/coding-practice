@@ -319,3 +319,10 @@ Improved understanding of binary search patterns and how to apply them in differ
 - `leetcode/remove_duplicates_sorted_array.py`  
 - `leetcode/product_of_array_except_self.py`  
 - `notes/inplace-and-prefix-patterns.md`
+
+## Day 14 - Revision Day
+
+- Revised Arrays and HashMaps
+- Re-solved key problems
+- Identified weak areas
+- Strengthened problem-solving patterns
