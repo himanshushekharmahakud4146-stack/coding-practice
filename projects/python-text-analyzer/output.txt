@@ -1,0 +1,10 @@
+python : 4
+powerful : 1
+easy : 1
+learn : 1
+widely : 1
+used : 1
+artificial : 1
+intelligence : 1
+machine : 1
+learning : 1

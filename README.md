@@ -326,3 +326,69 @@ Improved understanding of binary search patterns and how to apply them in differ
 - Re-solved key problems
 - Identified weak areas
 - Strengthened problem-solving patterns
+
+## Day 15 - Python Text Analyzer Project
+
+## 📌 Project Work Completed
+
+### ✅ Project Improved
+Enhanced the Python Text Analyzer project with:
+- File input support
+- Text cleaning
+- Stopword filtering
+- Top 10 frequent word analysis
+- Frequency sorting using dictionaries and lambda functions
+
+---
+
+## 🧠 Concepts Learned
+
+- File handling using `open()` and `with open()`
+- Text preprocessing and cleaning
+- Stopword filtering techniques
+- Dictionary-based frequency counting
+- Sorting using `lambda`
+- String processing in Python
+- Basic debugging and logic fixing
+
+---
+
+## 🚀 Key Takeaways
+
+- Learned how to process real text data from files
+- Improved debugging and problem-solving skills
+- Understood importance of clean text preprocessing
+- Practiced frequency analysis using dictionaries
+- Learned professional project structure and GitHub maintenance
+
+---
+
+## 📂 Files Added / Updated
+
+- `projects/python-text-analyzer/main.py`
+- `projects/python-text-analyzer/README.md`
+- `projects/python-text-analyzer/sample_input.txt`
+- `projects/python-text-analyzer/requirements.txt`
+
+---
+
+## 🛠 Features of the Project
+
+- Count total words
+- Count unique words
+- Ignore stopwords
+- Remove punctuation
+- Display top 10 frequent words
+- Analyze text from input files
+
+---
+
+## 📈 Future Improvements
+
+- Add GUI version
+- Add CSV export support
+- Add NLP preprocessing
+- Add word cloud visualization
+- Add support for larger text datasets
+
+---

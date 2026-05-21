@@ -1,0 +1,4 @@
+Python is powerful and easy to learn.
+Python is widely used in artificial intelligence and machine learning.
+Data scientists and AI engineers use Python for automation, analysis, and backend development.
+Python helps developers build scalable and efficient applications.
