@@ -16,24 +16,22 @@ All solutions and learning notes are organized to track my daily progress and le
 - Prepare for Software Engineering and AI/ML interviews
 - Build a consistent daily coding habit
 
-## Repository Structure
+# 📂 Repository Structure
 
-```
+```bash
 coding-practice/
 │
 ├── leetcode/
-│   ├── problem_name.py
-│
 ├── notes/
-│   ├── note.md
+├── projects/
+│   └── python-text-analyzer/
 │
 └── README.md
 ```
 
-- **leetcode/** → contains solutions to LeetCode problems  
-- **notes/** → contains notes about Git, programming concepts, and learning progress  
-
----
+- `leetcode/` → DSA and LeetCode solutions  
+- `notes/` → learning notes and concepts  
+- `projects/` → Python  mini-projects
 
 ## Example Problem
 
