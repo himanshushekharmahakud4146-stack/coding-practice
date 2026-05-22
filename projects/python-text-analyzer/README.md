@@ -1,24 +1,32 @@
 # Python Text Analyzer
 
-A beginner-friendly Python project that analyzes text and displays the most frequent words.
+A beginner-friendly Python project that analyzes text data and displays the most frequent words after cleaning and filtering the text.
 
-## Features
+---
+
+# 🚀 Features
 
 - Count total words
 - Count unique words
 - Remove punctuation
 - Ignore stopwords
 - Show top 10 frequent words
+- Read text from file input
+- Sort words based on frequency
 
-## Technologies Used
+---
+
+# 🛠 Technologies Used
 
 - Python
 - Dictionaries
 - String Processing
-- Loops
-- Sorting
+- File Handling
+- Sorting with Lambda Functions
 
-## Project Structure
+---
+
+# 📂 Project Structure
 
 ```bash
 python-text-analyzer/
@@ -27,21 +35,50 @@ python-text-analyzer/
 ├── README.md
 ├── sample_input.txt
 └── requirements.txt
-└── output.txt
-
 ```
 
-## How to Run
+---
 
-Run the following command:
+# ▶️ How to Run
+
+## Step 1: Clone the repository
+
+```bash
+git clone <your-repository-link>
+```
+
+## Step 2: Move into project folder
+
+```bash
+cd python-text-analyzer
+```
+
+## Step 3: Run the program
 
 ```bash
 python main.py
 ```
 
-Then enter your text input in the terminal.
+## Step 4: Enter the file name
 
-## Example Output
+```text
+sample_input.txt
+```
+
+---
+
+# 📥 Example Input
+
+```text
+Python is powerful and easy to learn.
+Python is widely used in artificial intelligence and machine learning.
+Data scientists and AI engineers use Python for automation, analysis, and backend development.
+Python helps developers build scalable and efficient applications.
+```
+
+---
+
+# 📤 Example Output
 
 ```text
 Total words: 29
@@ -59,17 +96,32 @@ artificial : 1
 intelligence : 1
 machine : 1
 learning : 1
-
-Result saved to output.txt
 ```
 
-## Future Improvements
+---
 
-- File input support
-- GUI version
-- Word cloud visualization
-- NLP-based text analysis
+# 🧠 Concepts Practiced
 
-## Learning Goal
+- File handling
+- Text preprocessing
+- Stopword filtering
+- Frequency analysis
+- Dictionaries in Python
+- Sorting using lambda
+- Debugging text-processing logic
+
+---
+
+# 📈 Future Improvements
+
+- Add GUI version
+- Add CSV export
+- Add NLP preprocessing
+- Add word cloud visualization
+- Add larger dataset support
+
+---
+
+# 🎯 Learning Goal
 
 This project is part of my Python and AI/ML learning journey.
