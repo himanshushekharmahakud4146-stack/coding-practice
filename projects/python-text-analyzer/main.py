@@ -12,9 +12,15 @@ This project is part of my Python learning journey.
 """
 
 # Step 1: Input text
-fname  = input("Enter text File: ")
-with open(fname, "r") as f:
-    text = f.read().lower()
+
+fname = input("Enter file name: ")
+
+try:
+    with open(fname, "r") as f:
+        text = f.read().lower()
+
+except FileNotFoundError:
+    print("File not found.")
 
 
 # Step 2: Stopwords list

@@ -339,7 +339,7 @@ Enhanced the Python Text Analyzer project with:
 
 ---
 
-## 🧠 Concepts Learned
+### 🧠 Concepts Learned
 
 - File handling using `open()` and `with open()`
 - Text preprocessing and cleaning
@@ -351,7 +351,7 @@ Enhanced the Python Text Analyzer project with:
 
 ---
 
-## 🚀 Key Takeaways
+### 🚀 Key Takeaways
 
 - Learned how to process real text data from files
 - Improved debugging and problem-solving skills
@@ -361,7 +361,7 @@ Enhanced the Python Text Analyzer project with:
 
 ---
 
-## 📂 Files Added / Updated
+### 📂 Files Added / Updated
 
 - `projects/python-text-analyzer/main.py`
 - `projects/python-text-analyzer/README.md`
@@ -370,7 +370,7 @@ Enhanced the Python Text Analyzer project with:
 
 ---
 
-## 🛠 Features of the Project
+### 🛠 Features of the Project
 
 - Count total words
 - Count unique words
@@ -381,7 +381,7 @@ Enhanced the Python Text Analyzer project with:
 
 ---
 
-## 📈 Future Improvements
+### 📈 Future Improvements
 
 - Add GUI version
 - Add CSV export support
@@ -390,3 +390,75 @@ Enhanced the Python Text Analyzer project with:
 - Add support for larger text datasets
 
 ---
+##  Day 16 - README Improvement
+
+### 📌 Tasks Completed
+
+- Added project features section
+- Added example input and output
+- Added how to run instructions
+- Improved overall project documentation
+
+---
+
+### 🧠 Concepts Learned
+
+- Technical documentation
+- README formatting
+- Project presentation
+- GitHub repository maintenance
+
+---
+
+### 🚀 Key Takeaways
+
+- Learned how to write a professional README
+- Improved project readability for other developers
+- Understood importance of documentation in software projects
+
+---
+
+### 📂 Files Updated
+
+- `projects/python-text-analyzer/README.md`
+
+---
+
+## Day 17 - Project Structure Improvement
+
+### 📌 Tasks Completed
+
+- Improved project folder organization
+- Added example text file
+- Added basic file handling error checking
+- Cleaned project structure for better maintainability
+
+---
+
+### 🧠 Concepts Learned
+
+- Project organization
+- File handling
+- Error handling using `try-except`
+- Clean repository structure
+
+---
+
+### 🚀 Key Takeaways
+
+- Learned importance of organized project structure
+- Improved beginner-professional coding practices
+- Understood safer file handling techniques
+
+---
+
+### 📂 Project Structure
+
+```bash
+python-text-analyzer/
+│
+├── main.py
+├── sample_input.txt
+├── output.txt
+├── requirements.txt
+└── README.md
