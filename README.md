@@ -462,3 +462,58 @@ python-text-analyzer/
 ├── output.txt
 ├── requirements.txt
 └── README.md
+```
+
+## Day 18 - LeetCode Practice
+
+### 📌 Tasks Completed
+
+- Solved Pascal's Triangle problem
+- Practiced nested loops and list manipulation
+- Learned how previous rows generate new rows
+- Added learning notes for Pascal’s Triangle
+
+---
+
+### 🧠 Concepts Learned
+
+- Nested lists
+- List indexing
+- Dynamic row generation
+- Pattern recognition
+- `append()` usage
+- Loop-based construction
+
+---
+
+### 🚀 Key Takeaways
+
+- Understood how Pascal’s Triangle works
+- Improved problem-solving and debugging skills
+- Learned how previous computed values help build new results
+- Practiced cleaner DSA thinking
+
+---
+
+### 📂 Files Added
+
+```bash
+leetcode/
+│
+├── pascals_triangle.py
+
+notes/
+│
+└── pascals-triangle.md
+```
+
+---
+
+### ✅ Git Commit
+
+```bash
+git commit -m "Month 3 Day 18: Solved Pascal's Triangle and added learning notes"
+```
+
+
+
