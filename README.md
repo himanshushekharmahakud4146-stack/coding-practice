@@ -534,3 +534,26 @@ git commit -m "Month 3 Day 18: Solved Pascal's Triangle and added learning notes
 ### Goal
 Building strong problem-solving skills and engineering fundamentals to become an AI/ML Engineer.
 
+# Coding Practice
+
+## Month 3 Completion Summary
+
+### Achievements
+- Completed Month 3 of AI/ML & Coding Journey
+- Solved approximately 80+ coding problems
+- Learned Git and GitHub fundamentals
+- Practiced daily commits
+- Improved repository organization
+- Created coding notes and documentation
+- Built consistency in problem-solving
+
+### Git Skills Learned
+- git init
+- git clone
+- git add
+- git commit
+- git push
+- git pull
+- git branch
+- git merge
+- GitHub repository management
